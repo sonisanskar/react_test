@@ -1,2 +1,2 @@
 # react_test
-A simple atempt towards learning HTML ,CSS and javascript
+A simple attempt towards learning HTML ,CSS and javascript
